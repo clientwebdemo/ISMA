@@ -1,3 +1,1 @@
-# ISMA
-
-http://www.indiyansocialmedia.agency/
+http://www.indiyansocialmedia.agency
